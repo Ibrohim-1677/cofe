@@ -128,8 +128,19 @@ body{
     width: 1110px;
     height: 196px;
 }
+
 .our__collektion--item{
+    width: 256px;
+    height: 193px;
     text-align: center;
+}
+.our__collektion--item1{
+    text-align: center;
+    width: 256px;
+    height: 177px;
+}
+.img{
+    margin-top: 15px;
 }
                                   /* main choose */
 .choose{
